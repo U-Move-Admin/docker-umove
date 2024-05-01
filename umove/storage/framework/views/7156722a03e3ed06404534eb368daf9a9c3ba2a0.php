@@ -1,0 +1,1 @@
+<a <?php echo e($attributes->merge(['class' => 'kt-menu__link'])); ?> ><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text"> <?php echo e($slot); ?></span></a><?php /**PATH /homepages/1/d814676099/htdocs/umove/resources/views/components/admin/aside-menu/link-bullet.blade.php ENDPATH**/ ?>

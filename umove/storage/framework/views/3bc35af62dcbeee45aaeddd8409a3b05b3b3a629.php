@@ -1,0 +1,1 @@
+<a <?php echo e($attributes->merge(['class' => 'kt-menu__link'])); ?> > <?php echo e($slot); ?></a><?php /**PATH /home/u390945238/domains/umove.london/resources/views/components/admin/aside-menu/link.blade.php ENDPATH**/ ?>

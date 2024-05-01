@@ -1,0 +1,1 @@
+<ul class="kt-menu__subnav"><?php echo e($slot); ?></ul><?php /**PATH /homepages/0/d872858855/htdocs/umove/resources/views/components/admin/aside-menu/kt-menu__subnav.blade.php ENDPATH**/ ?>

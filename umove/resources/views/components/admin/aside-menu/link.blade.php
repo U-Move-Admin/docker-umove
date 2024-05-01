@@ -1,0 +1,1 @@
+<a {{ $attributes->merge(['class' => 'kt-menu__link']) }} > {{ $slot }}</a>

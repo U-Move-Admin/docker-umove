@@ -1,0 +1,1 @@
+<li <?php echo e($attributes->merge(['class' => 'kt-menu__item', 'aria-haspopup' => 'true'])); ?> ><?php echo e($slot); ?></li><?php /**PATH /homepages/0/d872858855/htdocs/umove/resources/views/components/admin/aside-menu/li.blade.php ENDPATH**/ ?>

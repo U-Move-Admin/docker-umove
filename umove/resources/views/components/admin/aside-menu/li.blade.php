@@ -1,0 +1,1 @@
+<li {{ $attributes->merge(['class' => 'kt-menu__item', 'aria-haspopup' => 'true']) }} >{{$slot}}</li>

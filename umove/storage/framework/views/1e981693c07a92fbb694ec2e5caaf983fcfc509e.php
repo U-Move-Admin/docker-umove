@@ -1,0 +1,1 @@
+<img width="60" src="<?php echo e(asset('img/logo-3.png')); ?>" alt=""><?php /**PATH /homepages/0/d872858855/htdocs/umove/resources/views/components/application-logo.blade.php ENDPATH**/ ?>
