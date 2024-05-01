@@ -7,3 +7,4 @@ umove/public_html/videos/dashboard.mov filter=lfs diff=lfs merge=lfs -text
 umove/public_html/videos/edit-customer.mov filter=lfs diff=lfs merge=lfs -text
 umove/public_html/videos/edit-property.mov filter=lfs diff=lfs merge=lfs -text
 umove/public_html/videos/edit-role.mov filter=lfs diff=lfs merge=lfs -text
+umove/public_html/videos/user-list.mov filter=lfs diff=lfs merge=lfs -text
