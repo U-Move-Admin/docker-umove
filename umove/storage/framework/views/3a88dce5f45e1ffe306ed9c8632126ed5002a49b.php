@@ -1,1 +1,0 @@
-<i <?php echo e($attributes->merge(['class' => 'kt-menu__link-icon' ])); ?>></i><?php /**PATH /homepages/0/d872858855/htdocs/umove/resources/views/components/admin/aside-menu/icon.blade.php ENDPATH**/ ?>

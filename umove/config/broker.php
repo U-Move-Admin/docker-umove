@@ -1,9 +1,9 @@
 <?php 
-if($_SERVER['HTTP_HOST'] == 'agent.janansoft.co.uk'){
+/*if($_SERVER['HTTP_HOST'] == 'umove.london'){
     $array = [
         'name' => 'Umove',
         'img_path' => '/properties/',
-        'url' => 'https://agent.janansoft.co.uk',
+        'url' => 'https://umove.london',
         'google_api' => '',
         'home_title'=>'For Buy and Rent Properties',
         'home_desc'=>'Properties for Sale, Short & Long Let as house, flat, apartment ,room and commercial properties in London',
@@ -34,4 +34,4 @@ if($_SERVER['HTTP_HOST'] == 'agent.janansoft.co.uk'){
         'search_desc'=>'Properties, for rent, sell, buy house, flat, room and commercial',
     ];
 }
-return $array;
+return $array;*/

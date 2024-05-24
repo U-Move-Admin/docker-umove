@@ -1,1 +1,0 @@
-<span <?php echo e($attributes->merge(['class' => ''])); ?>> <?php echo e($slot); ?></span><?php /**PATH /homepages/1/d814676099/htdocs/umove/resources/views/components/admin/aside-menu/span.blade.php ENDPATH**/ ?>
